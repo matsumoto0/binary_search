@@ -15,7 +15,6 @@ int main(){
     
    
     
-    
     lb = 0;
     ub = 1000000000;
     while(ub - lb > 1){
