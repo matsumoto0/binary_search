@@ -21,7 +21,6 @@ int main(){
            lb = m;
         }
     }
-
     
     
     printf("%d\n", ub);
