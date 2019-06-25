@@ -27,6 +27,7 @@ int main(){
         else{
             lb = m;
         }
+        
     }
     
     printf("%d\n", lb);
