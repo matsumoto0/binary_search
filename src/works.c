@@ -20,7 +20,6 @@ int main(){
     ub = a;
     while(ub - lb > 1){
         int m = (lb + ub) / 2;
-        
         int cnt = 1;
         int sum = 0;
         
